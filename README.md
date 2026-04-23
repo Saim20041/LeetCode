@@ -7,6 +7,7 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saim20041/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Saim20041/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0238-product-of-array-except-self](https://github.com/Saim20041/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Saim20041/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1816-truncate-sentence](https://github.com/Saim20041/LeetCode/tree/master/1816-truncate-sentence) |
@@ -44,6 +45,7 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saim20041/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Saim20041/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Saim20041/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
@@ -74,4 +76,8 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Saim20041/LeetCode/tree/master/0796-rotate-string) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Saim20041/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
