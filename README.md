@@ -71,6 +71,7 @@ The question i have solved on leetcode with solution are here.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Saim20041/LeetCode/tree/master/0020-valid-parentheses) |
 | [0796-rotate-string](https://github.com/Saim20041/LeetCode/tree/master/0796-rotate-string) |
 | [1816-truncate-sentence](https://github.com/Saim20041/LeetCode/tree/master/1816-truncate-sentence) |
 ## String Matching
@@ -85,4 +86,8 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Saim20041/LeetCode/tree/master/0046-permutations) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Saim20041/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
