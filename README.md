@@ -11,6 +11,7 @@ The question i have solved on leetcode with solution are here.
 | [0074-search-a-2d-matrix](https://github.com/Saim20041/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0238-product-of-array-except-self](https://github.com/Saim20041/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Saim20041/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1816-truncate-sentence](https://github.com/Saim20041/LeetCode/tree/master/1816-truncate-sentence) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Saim20041/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -31,11 +32,13 @@ The question i have solved on leetcode with solution are here.
 ## Depth-First Search
 |  |
 | ------- |
+| [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Saim20041/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -83,6 +86,7 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Saim20041/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Backtracking
 |  |
 | ------- |
@@ -103,4 +107,8 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
+## Union-Find
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
