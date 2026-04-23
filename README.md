@@ -64,4 +64,12 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Saim20041/LeetCode/tree/master/0239-sliding-window-maximum) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Saim20041/LeetCode/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Saim20041/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
