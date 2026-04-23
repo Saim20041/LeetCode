@@ -9,6 +9,7 @@ The question i have solved on leetcode with solution are here.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saim20041/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Saim20041/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Saim20041/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1816-truncate-sentence](https://github.com/Saim20041/LeetCode/tree/master/1816-truncate-sentence) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Saim20041/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Greedy
 |  |
@@ -68,6 +69,7 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Saim20041/LeetCode/tree/master/0796-rotate-string) |
+| [1816-truncate-sentence](https://github.com/Saim20041/LeetCode/tree/master/1816-truncate-sentence) |
 ## String Matching
 |  |
 | ------- |
