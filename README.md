@@ -6,6 +6,7 @@ The question i have solved on leetcode with solution are here.
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saim20041/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Saim20041/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Saim20041/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Saim20041/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -41,6 +42,7 @@ The question i have solved on leetcode with solution are here.
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saim20041/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Saim20041/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
