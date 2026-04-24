@@ -116,4 +116,8 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Saim20041/LeetCode/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Saim20041/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
