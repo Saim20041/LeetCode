@@ -12,6 +12,7 @@ The question i have solved on leetcode with solution are here.
 | [0075-sort-colors](https://github.com/Saim20041/LeetCode/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/Saim20041/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Saim20041/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/Saim20041/LeetCode/tree/master/0283-move-zeroes) |
 | [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1816-truncate-sentence](https://github.com/Saim20041/LeetCode/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/Saim20041/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -129,4 +130,5 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Saim20041/LeetCode/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Saim20041/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
