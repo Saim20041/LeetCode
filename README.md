@@ -32,16 +32,19 @@ The question i have solved on leetcode with solution are here.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Saim20041/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Saim20041/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Saim20041/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -49,6 +52,7 @@ The question i have solved on leetcode with solution are here.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Saim20041/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Saim20041/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search
 |  |
