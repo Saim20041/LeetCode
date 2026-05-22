@@ -115,6 +115,7 @@ The question i have solved on leetcode with solution are here.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saim20041/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Saim20041/LeetCode/tree/master/0020-valid-parentheses) |
+| [0443-string-compression](https://github.com/Saim20041/LeetCode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Saim20041/LeetCode/tree/master/0796-rotate-string) |
 | [1816-truncate-sentence](https://github.com/Saim20041/LeetCode/tree/master/1816-truncate-sentence) |
 ## String Matching
@@ -178,6 +179,7 @@ The question i have solved on leetcode with solution are here.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Saim20041/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Saim20041/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Saim20041/LeetCode/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/Saim20041/LeetCode/tree/master/0443-string-compression) |
 | [2540-minimum-common-value](https://github.com/Saim20041/LeetCode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
