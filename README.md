@@ -25,6 +25,7 @@ The question i have solved on leetcode with solution are here.
 | [0283-move-zeroes](https://github.com/Saim20041/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Saim20041/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Saim20041/LeetCode/tree/master/0682-baseball-game) |
 | [0766-toeplitz-matrix](https://github.com/Saim20041/LeetCode/tree/master/0766-toeplitz-matrix) |
@@ -87,6 +88,7 @@ The question i have solved on leetcode with solution are here.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Saim20041/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Saim20041/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Saim20041/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/Saim20041/LeetCode/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
