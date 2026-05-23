@@ -121,6 +121,7 @@ The question i have solved on leetcode with solution are here.
 | [0443-string-compression](https://github.com/Saim20041/LeetCode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Saim20041/LeetCode/tree/master/0796-rotate-string) |
 | [1816-truncate-sentence](https://github.com/Saim20041/LeetCode/tree/master/1816-truncate-sentence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Saim20041/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## String Matching
 |  |
 | ------- |
