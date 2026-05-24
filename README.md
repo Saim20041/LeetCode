@@ -125,6 +125,7 @@ The question i have solved on leetcode with solution are here.
 | [0443-string-compression](https://github.com/Saim20041/LeetCode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Saim20041/LeetCode/tree/master/0796-rotate-string) |
 | [1816-truncate-sentence](https://github.com/Saim20041/LeetCode/tree/master/1816-truncate-sentence) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Saim20041/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Saim20041/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## String Matching
 |  |
@@ -147,6 +148,7 @@ The question i have solved on leetcode with solution are here.
 | [0020-valid-parentheses](https://github.com/Saim20041/LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Saim20041/LeetCode/tree/master/0682-baseball-game) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Saim20041/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Saim20041/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -173,6 +175,7 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Saim20041/LeetCode/tree/master/0682-baseball-game) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Saim20041/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Saim20041/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Saim20041/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Math
