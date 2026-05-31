@@ -6,6 +6,7 @@ The question i have solved on leetcode with solution are here.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Saim20041/LeetCode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Saim20041/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Saim20041/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Saim20041/LeetCode/tree/master/0046-permutations) |
@@ -162,6 +163,7 @@ The question i have solved on leetcode with solution are here.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Saim20041/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Saim20041/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saim20041/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Saim20041/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -192,6 +194,7 @@ The question i have solved on leetcode with solution are here.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Saim20041/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Saim20041/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Saim20041/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Saim20041/LeetCode/tree/master/0189-rotate-array) |
