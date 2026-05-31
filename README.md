@@ -37,6 +37,7 @@ The question i have solved on leetcode with solution are here.
 | [1929-concatenation-of-array](https://github.com/Saim20041/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Saim20041/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Saim20041/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/Saim20041/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2540-minimum-common-value](https://github.com/Saim20041/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Saim20041/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -48,6 +49,7 @@ The question i have solved on leetcode with solution are here.
 | [0134-gas-station](https://github.com/Saim20041/LeetCode/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Saim20041/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/Saim20041/LeetCode/tree/master/2126-destroying-asteroids) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -163,6 +165,7 @@ The question i have solved on leetcode with solution are here.
 | [0075-sort-colors](https://github.com/Saim20041/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saim20041/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Saim20041/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2126-destroying-asteroids](https://github.com/Saim20041/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 ## Counting
 |  |
