@@ -191,6 +191,7 @@ The question i have solved on leetcode with solution are here.
 | [0007-reverse-integer](https://github.com/Saim20041/LeetCode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/Saim20041/LeetCode/tree/master/0189-rotate-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Saim20041/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Saim20041/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -220,6 +221,7 @@ The question i have solved on leetcode with solution are here.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saim20041/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saim20041/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Saim20041/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -228,4 +230,8 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Saim20041/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Saim20041/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
