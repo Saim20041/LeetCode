@@ -43,6 +43,7 @@ The question i have solved on leetcode with solution are here.
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2540-minimum-common-value](https://github.com/Saim20041/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Saim20041/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Saim20041/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3838-weighted-word-mapping](https://github.com/Saim20041/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
@@ -58,6 +59,7 @@ The question i have solved on leetcode with solution are here.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Saim20041/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Saim20041/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [2574-left-and-right-sum-differences](https://github.com/Saim20041/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Tree
 |  |
 | ------- |
