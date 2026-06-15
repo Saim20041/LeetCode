@@ -213,6 +213,7 @@ The question i have solved on leetcode with solution are here.
 | [0345-reverse-vowels-of-a-string](https://github.com/Saim20041/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Saim20041/LeetCode/tree/master/0443-string-compression) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Saim20041/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Saim20041/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Saim20041/LeetCode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
@@ -243,4 +244,8 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Saim20041/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Saim20041/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
