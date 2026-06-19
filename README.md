@@ -35,6 +35,7 @@ The question i have solved on leetcode with solution are here.
 | [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1207-unique-number-of-occurrences](https://github.com/Saim20041/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Saim20041/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1732-find-the-highest-altitude](https://github.com/Saim20041/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saim20041/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/Saim20041/LeetCode/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/Saim20041/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -60,6 +61,7 @@ The question i have solved on leetcode with solution are here.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Saim20041/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Saim20041/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/Saim20041/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Saim20041/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Tree
 |  |
