@@ -38,6 +38,7 @@ The question i have solved on leetcode with solution are here.
 | [1732-find-the-highest-altitude](https://github.com/Saim20041/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saim20041/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/Saim20041/LeetCode/tree/master/1816-truncate-sentence) |
+| [1833-maximum-ice-cream-bars](https://github.com/Saim20041/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/Saim20041/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Saim20041/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Saim20041/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -54,6 +55,7 @@ The question i have solved on leetcode with solution are here.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saim20041/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Saim20041/LeetCode/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/Saim20041/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Saim20041/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Saim20041/LeetCode/tree/master/2126-destroying-asteroids) |
 ## Prefix Sum
@@ -179,6 +181,7 @@ The question i have solved on leetcode with solution are here.
 | [0015-3sum](https://github.com/Saim20041/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Saim20041/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saim20041/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Saim20041/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Saim20041/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Saim20041/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -255,4 +258,8 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Saim20041/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Saim20041/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
