@@ -37,6 +37,7 @@ The question i have solved on leetcode with solution are here.
 | [1207-unique-number-of-occurrences](https://github.com/Saim20041/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Saim20041/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Saim20041/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1630-arithmetic-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Saim20041/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saim20041/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/Saim20041/LeetCode/tree/master/1816-truncate-sentence) |
@@ -178,6 +179,7 @@ The question i have solved on leetcode with solution are here.
 | [0496-next-greater-element-i](https://github.com/Saim20041/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/Saim20041/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Saim20041/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1630-arithmetic-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2540-minimum-common-value](https://github.com/Saim20041/LeetCode/tree/master/2540-minimum-common-value) |
 ## Sorting
@@ -188,6 +190,7 @@ The question i have solved on leetcode with solution are here.
 | [0215-kth-largest-element-in-an-array](https://github.com/Saim20041/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-bag-of-tokens](https://github.com/Saim20041/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Saim20041/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1630-arithmetic-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saim20041/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Saim20041/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Saim20041/LeetCode/tree/master/2126-destroying-asteroids) |
