@@ -42,6 +42,7 @@ The question i have solved on leetcode with solution are here.
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saim20041/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/Saim20041/LeetCode/tree/master/1816-truncate-sentence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saim20041/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Saim20041/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/Saim20041/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Saim20041/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Saim20041/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -60,6 +61,7 @@ The question i have solved on leetcode with solution are here.
 | [0334-increasing-triplet-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0948-bag-of-tokens](https://github.com/Saim20041/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saim20041/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Saim20041/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Saim20041/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Saim20041/LeetCode/tree/master/2126-destroying-asteroids) |
 ## Prefix Sum
@@ -192,6 +194,7 @@ The question i have solved on leetcode with solution are here.
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Saim20041/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1630-arithmetic-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saim20041/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Saim20041/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Saim20041/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/Saim20041/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
