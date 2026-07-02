@@ -37,6 +37,7 @@ The question i have solved on leetcode with solution are here.
 | [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1207-unique-number-of-occurrences](https://github.com/Saim20041/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Saim20041/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Saim20041/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Saim20041/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1630-arithmetic-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1630-arithmetic-subarrays) |
@@ -74,6 +75,7 @@ The question i have solved on leetcode with solution are here.
 | [0238-product-of-array-except-self](https://github.com/Saim20041/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saim20041/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Saim20041/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1732-find-the-highest-altitude](https://github.com/Saim20041/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Saim20041/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Tree
@@ -122,6 +124,7 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Saim20041/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Saim20041/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 ## Queue
 |  |
 | ------- |
