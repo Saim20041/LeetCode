@@ -46,6 +46,7 @@ The question i have solved on leetcode with solution are here.
 | [1816-truncate-sentence](https://github.com/Saim20041/LeetCode/tree/master/1816-truncate-sentence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saim20041/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Saim20041/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1854-maximum-population-year](https://github.com/Saim20041/LeetCode/tree/master/1854-maximum-population-year) |
 | [1929-concatenation-of-array](https://github.com/Saim20041/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saim20041/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Saim20041/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -77,6 +78,7 @@ The question i have solved on leetcode with solution are here.
 | [1248-count-number-of-nice-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Saim20041/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1732-find-the-highest-altitude](https://github.com/Saim20041/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/Saim20041/LeetCode/tree/master/1854-maximum-population-year) |
 | [2574-left-and-right-sum-differences](https://github.com/Saim20041/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Tree
 |  |
@@ -215,6 +217,7 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Saim20041/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1854-maximum-population-year](https://github.com/Saim20041/LeetCode/tree/master/1854-maximum-population-year) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 ## Union-Find
 |  |
