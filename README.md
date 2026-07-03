@@ -53,6 +53,7 @@ The question i have solved on leetcode with solution are here.
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Saim20041/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Saim20041/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2381-shifting-letters-ii](https://github.com/Saim20041/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2540-minimum-common-value](https://github.com/Saim20041/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Saim20041/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Saim20041/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -79,6 +80,7 @@ The question i have solved on leetcode with solution are here.
 | [1310-xor-queries-of-a-subarray](https://github.com/Saim20041/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1732-find-the-highest-altitude](https://github.com/Saim20041/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/Saim20041/LeetCode/tree/master/1854-maximum-population-year) |
+| [2381-shifting-letters-ii](https://github.com/Saim20041/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/Saim20041/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Tree
 |  |
@@ -163,6 +165,7 @@ The question i have solved on leetcode with solution are here.
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Saim20041/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saim20041/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Saim20041/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2381-shifting-letters-ii](https://github.com/Saim20041/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [3838-weighted-word-mapping](https://github.com/Saim20041/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## String Matching
 |  |
