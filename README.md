@@ -38,6 +38,7 @@ The question i have solved on leetcode with solution are here.
 | [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1207-unique-number-of-occurrences](https://github.com/Saim20041/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1288-remove-covered-intervals](https://github.com/Saim20041/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Saim20041/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Saim20041/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Saim20041/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -211,6 +212,7 @@ The question i have solved on leetcode with solution are here.
 | [0075-sort-colors](https://github.com/Saim20041/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saim20041/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-bag-of-tokens](https://github.com/Saim20041/LeetCode/tree/master/0948-bag-of-tokens) |
+| [1288-remove-covered-intervals](https://github.com/Saim20041/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Saim20041/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1630-arithmetic-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saim20041/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
