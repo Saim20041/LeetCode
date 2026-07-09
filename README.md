@@ -33,6 +33,7 @@ The question i have solved on leetcode with solution are here.
 | [0682-baseball-game](https://github.com/Saim20041/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Saim20041/LeetCode/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/Saim20041/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0821-shortest-distance-to-a-character](https://github.com/Saim20041/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saim20041/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-bag-of-tokens](https://github.com/Saim20041/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -162,6 +163,7 @@ The question i have solved on leetcode with solution are here.
 | [0345-reverse-vowels-of-a-string](https://github.com/Saim20041/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Saim20041/LeetCode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Saim20041/LeetCode/tree/master/0796-rotate-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/Saim20041/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [1189-maximum-number-of-balloons](https://github.com/Saim20041/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1816-truncate-sentence](https://github.com/Saim20041/LeetCode/tree/master/1816-truncate-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Saim20041/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -262,6 +264,7 @@ The question i have solved on leetcode with solution are here.
 | [0344-reverse-string](https://github.com/Saim20041/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Saim20041/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Saim20041/LeetCode/tree/master/0443-string-compression) |
+| [0821-shortest-distance-to-a-character](https://github.com/Saim20041/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0948-bag-of-tokens](https://github.com/Saim20041/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Saim20041/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Saim20041/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
