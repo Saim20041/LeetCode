@@ -31,6 +31,7 @@ The question i have solved on leetcode with solution are here.
 | [0540-single-element-in-a-sorted-array](https://github.com/Saim20041/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Saim20041/LeetCode/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Saim20041/LeetCode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Saim20041/LeetCode/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/Saim20041/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0821-shortest-distance-to-a-character](https://github.com/Saim20041/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
@@ -101,6 +102,7 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Saim20041/LeetCode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Saim20041/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -109,6 +111,7 @@ The question i have solved on leetcode with solution are here.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Saim20041/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Saim20041/LeetCode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Saim20041/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -186,6 +189,7 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Saim20041/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0695-max-area-of-island](https://github.com/Saim20041/LeetCode/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/Saim20041/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Saim20041/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -239,6 +243,7 @@ The question i have solved on leetcode with solution are here.
 ## Union-Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/Saim20041/LeetCode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Saim20041/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Simulation
