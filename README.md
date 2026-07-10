@@ -41,6 +41,7 @@ The question i have solved on leetcode with solution are here.
 | [1248-count-number-of-nice-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1288-remove-covered-intervals](https://github.com/Saim20041/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Saim20041/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
+| [1480-running-sum-of-1d-array](https://github.com/Saim20041/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Saim20041/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Saim20041/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1630-arithmetic-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1630-arithmetic-subarrays) |
@@ -81,6 +82,7 @@ The question i have solved on leetcode with solution are here.
 | [0930-binary-subarrays-with-sum](https://github.com/Saim20041/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Saim20041/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
+| [1480-running-sum-of-1d-array](https://github.com/Saim20041/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Saim20041/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/Saim20041/LeetCode/tree/master/1854-maximum-population-year) |
 | [2381-shifting-letters-ii](https://github.com/Saim20041/LeetCode/tree/master/2381-shifting-letters-ii) |
