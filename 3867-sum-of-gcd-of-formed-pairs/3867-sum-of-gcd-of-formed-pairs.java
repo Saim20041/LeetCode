@@ -9,11 +9,12 @@ class Solution {
             prefixGcd[i] = calculate(max, nums[i]);
         }    
         Arrays.sort(prefixGcd);
-        // for(int i = 0, j = prefixGcd.length-1; i < j ; i++, j--){
+        // for(int i = 0, j = prefixGcd.length-1; i < j ; i++, j--){ 
         //     int temp = prefixGcd[i];
         //     prefixGcd[i] = prefixGcd[j];
         //     prefixGcd[j] = temp;
         // }
+        // i realise there is no need to do that(decending order)
         long sum = 0;
         for(int i = 0, j = prefixGcd.length-1; i < j; i++, j--){
             sum += calculate(prefixGcd[i], prefixGcd[j]);
