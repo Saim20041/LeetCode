@@ -23,10 +23,10 @@ class Solution {
         for (int i = 1; i < n; i++) {
             for (int j = 0; j < n; j++) {
                 if(j != index1){
-                    dp[i][j] = Math.min(smallest + grid[i][j], dp[i][j]);
+                    dp[i][j] = smallest + grid[i][j];
                 }
                 else{
-                    dp[i][j] = Math.min(secSmallest + grid[i][j], dp[i][j]);
+                    dp[i][j] = secSmallest + grid[i][j];
                 }
             }
             smallest = Integer.MAX_VALUE;
