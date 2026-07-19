@@ -84,6 +84,7 @@ The question i have solved on leetcode with solution are here.
 | [0134-gas-station](https://github.com/Saim20041/LeetCode/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/Saim20041/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/Saim20041/LeetCode/tree/master/0402-remove-k-digits) |
 | [0948-bag-of-tokens](https://github.com/Saim20041/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Saim20041/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saim20041/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -192,6 +193,7 @@ The question i have solved on leetcode with solution are here.
 | [0316-remove-duplicate-letters](https://github.com/Saim20041/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Saim20041/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Saim20041/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0402-remove-k-digits](https://github.com/Saim20041/LeetCode/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Saim20041/LeetCode/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/Saim20041/LeetCode/tree/master/0500-keyboard-row) |
 | [0692-top-k-frequent-words](https://github.com/Saim20041/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -235,6 +237,7 @@ The question i have solved on leetcode with solution are here.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saim20041/LeetCode/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Saim20041/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Saim20041/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Saim20041/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Saim20041/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Saim20041/LeetCode/tree/master/0739-daily-temperatures) |
@@ -363,6 +366,7 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Saim20041/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Saim20041/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Saim20041/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Saim20041/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Saim20041/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
