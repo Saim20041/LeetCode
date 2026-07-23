@@ -197,6 +197,7 @@ The question i have solved on leetcode with solution are here.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saim20041/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Saim20041/LeetCode/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Saim20041/LeetCode/tree/master/0072-edit-distance) |
 | [0316-remove-duplicate-letters](https://github.com/Saim20041/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Saim20041/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Saim20041/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -369,6 +370,7 @@ The question i have solved on leetcode with solution are here.
 | ------- |
 | [0045-jump-game-ii](https://github.com/Saim20041/LeetCode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Saim20041/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Saim20041/LeetCode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saim20041/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saim20041/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0300-longest-increasing-subsequence) |
