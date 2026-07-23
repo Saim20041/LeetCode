@@ -326,6 +326,7 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Saim20041/LeetCode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Saim20041/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Saim20041/LeetCode/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Saim20041/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -366,6 +367,7 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Saim20041/LeetCode/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/Saim20041/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saim20041/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saim20041/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -415,4 +417,8 @@ The question i have solved on leetcode with solution are here.
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saim20041/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saim20041/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Saim20041/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
