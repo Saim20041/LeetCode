@@ -16,15 +16,13 @@ class Solution {
 
     public boolean helper(int index, int target, int nums[], Boolean dp[][]) {
         if (target == 0) {
-            dp[index][target] = true;
-            return dp[index][target];
+            return true;
         }
         if (target < 0) {
             return false;
         }
         if (index == nums.length) {
-            dp[index][target] = false;
-            return dp[index][target];
+            return false;
         }
         if(dp[index][target] != null){
             return dp[index][target];
