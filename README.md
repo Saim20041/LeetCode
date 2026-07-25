@@ -298,6 +298,7 @@ The question i have solved on leetcode with solution are here.
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saim20041/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Saim20041/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
+| [3536-maximum-product-of-two-digits](https://github.com/Saim20041/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saim20041/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
@@ -336,6 +337,7 @@ The question i have solved on leetcode with solution are here.
 | [1248-count-number-of-nice-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Saim20041/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Saim20041/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3536-maximum-product-of-two-digits](https://github.com/Saim20041/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saim20041/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Saim20041/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Saim20041/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
