@@ -388,6 +388,7 @@ The question i have solved on leetcode with solution are here.
 | [0542-01-matrix](https://github.com/Saim20041/LeetCode/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saim20041/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Saim20041/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Saim20041/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Saim20041/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Saim20041/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Quickselect
