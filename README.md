@@ -71,6 +71,7 @@ The question i have solved on leetcode with solution are here.
 | [1854-maximum-population-year](https://github.com/Saim20041/LeetCode/tree/master/1854-maximum-population-year) |
 | [1929-concatenation-of-array](https://github.com/Saim20041/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saim20041/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2028-find-missing-observations](https://github.com/Saim20041/LeetCode/tree/master/2028-find-missing-observations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Saim20041/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Saim20041/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saim20041/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -324,6 +325,7 @@ The question i have solved on leetcode with solution are here.
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Saim20041/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Saim20041/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Saim20041/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2028-find-missing-observations](https://github.com/Saim20041/LeetCode/tree/master/2028-find-missing-observations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Saim20041/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/Saim20041/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saim20041/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -336,6 +338,7 @@ The question i have solved on leetcode with solution are here.
 | [1071-greatest-common-divisor-of-strings](https://github.com/Saim20041/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Saim20041/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2028-find-missing-observations](https://github.com/Saim20041/LeetCode/tree/master/2028-find-missing-observations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Saim20041/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saim20041/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saim20041/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
