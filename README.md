@@ -84,6 +84,7 @@ The question i have solved on leetcode with solution are here.
 | [2553-separate-the-digits-in-an-array](https://github.com/Saim20041/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Saim20041/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Saim20041/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Saim20041/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3838-weighted-word-mapping](https://github.com/Saim20041/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saim20041/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -101,6 +102,7 @@ The question i have solved on leetcode with solution are here.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Saim20041/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Saim20041/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Saim20041/LeetCode/tree/master/2126-destroying-asteroids) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Saim20041/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -304,6 +306,7 @@ The question i have solved on leetcode with solution are here.
 | [2126-destroying-asteroids](https://github.com/Saim20041/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saim20041/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Saim20041/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saim20041/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
@@ -347,6 +350,7 @@ The question i have solved on leetcode with solution are here.
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Saim20041/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saim20041/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saim20041/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Saim20041/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Saim20041/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Saim20041/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saim20041/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
