@@ -460,4 +460,8 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Saim20041/LeetCode/tree/master/0070-climbing-stairs) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Saim20041/LeetCode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
