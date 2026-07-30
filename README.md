@@ -13,6 +13,7 @@ The question i have solved on leetcode with solution are here.
 | [0039-combination-sum](https://github.com/Saim20041/LeetCode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Saim20041/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Saim20041/LeetCode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Saim20041/LeetCode/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/Saim20041/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Saim20041/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Saim20041/LeetCode/tree/master/0075-sort-colors) |
@@ -213,6 +214,7 @@ The question i have solved on leetcode with solution are here.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saim20041/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Saim20041/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Saim20041/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Saim20041/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Saim20041/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Saim20041/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/Saim20041/LeetCode/tree/master/0316-remove-duplicate-letters) |
@@ -282,6 +284,7 @@ The question i have solved on leetcode with solution are here.
 | [0001-two-sum](https://github.com/Saim20041/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saim20041/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Saim20041/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Saim20041/LeetCode/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Saim20041/LeetCode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Saim20041/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Saim20041/LeetCode/tree/master/0500-keyboard-row) |
@@ -299,6 +302,7 @@ The question i have solved on leetcode with solution are here.
 | ------- |
 | [0015-3sum](https://github.com/Saim20041/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Saim20041/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Saim20041/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Saim20041/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saim20041/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Saim20041/LeetCode/tree/master/0229-majority-element-ii) |
