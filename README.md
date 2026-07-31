@@ -57,6 +57,7 @@ The question i have solved on leetcode with solution are here.
 | [0930-binary-subarrays-with-sum](https://github.com/Saim20041/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Saim20041/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/Saim20041/LeetCode/tree/master/0948-bag-of-tokens) |
+| [0994-rotting-oranges](https://github.com/Saim20041/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1207-unique-number-of-occurrences](https://github.com/Saim20041/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -154,6 +155,7 @@ The question i have solved on leetcode with solution are here.
 | [0542-01-matrix](https://github.com/Saim20041/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Saim20041/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Saim20041/LeetCode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Saim20041/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Saim20041/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -263,6 +265,7 @@ The question i have solved on leetcode with solution are here.
 | [0733-flood-fill](https://github.com/Saim20041/LeetCode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Saim20041/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/Saim20041/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/Saim20041/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Saim20041/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Saim20041/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
