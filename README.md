@@ -107,6 +107,7 @@ The question i have solved on leetcode with solution are here.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Saim20041/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Saim20041/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Saim20041/LeetCode/tree/master/2126-destroying-asteroids) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saim20041/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Saim20041/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Prefix Sum
 |  |
@@ -240,6 +241,7 @@ The question i have solved on leetcode with solution are here.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saim20041/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Saim20041/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2381-shifting-letters-ii](https://github.com/Saim20041/LeetCode/tree/master/2381-shifting-letters-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saim20041/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Saim20041/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/Saim20041/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## String Matching
@@ -300,6 +302,7 @@ The question i have solved on leetcode with solution are here.
 | [1630-arithmetic-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2540-minimum-common-value](https://github.com/Saim20041/LeetCode/tree/master/2540-minimum-common-value) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saim20041/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -325,6 +328,7 @@ The question i have solved on leetcode with solution are here.
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saim20041/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Saim20041/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saim20041/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saim20041/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Saim20041/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saim20041/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -336,6 +340,7 @@ The question i have solved on leetcode with solution are here.
 | [1189-maximum-number-of-balloons](https://github.com/Saim20041/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1854-maximum-population-year](https://github.com/Saim20041/LeetCode/tree/master/1854-maximum-population-year) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saim20041/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Union-Find
 |  |
 | ------- |
