@@ -14,7 +14,7 @@ class Solution {
                     a = temp;
                     
                 }
-                long curr = (1L * nums[i] * nums[j])/(a*a);
+                long curr = (1L * nums[i] * nums[j])/(1L*a*a);
                 max = Math.max(max, curr);
             }
         }
