@@ -53,6 +53,7 @@ The question i have solved on leetcode with solution are here.
 | [0739-daily-temperatures](https://github.com/Saim20041/LeetCode/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/Saim20041/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0821-shortest-distance-to-a-character](https://github.com/Saim20041/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0877-stone-game](https://github.com/Saim20041/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saim20041/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Saim20041/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saim20041/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -381,6 +382,7 @@ The question i have solved on leetcode with solution are here.
 | [0189-rotate-array](https://github.com/Saim20041/LeetCode/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Saim20041/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saim20041/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Saim20041/LeetCode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Saim20041/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Saim20041/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -440,6 +442,7 @@ The question i have solved on leetcode with solution are here.
 | [0516-longest-palindromic-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Saim20041/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Saim20041/LeetCode/tree/master/0542-01-matrix) |
+| [0877-stone-game](https://github.com/Saim20041/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saim20041/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Saim20041/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Saim20041/LeetCode/tree/master/0931-minimum-falling-path-sum) |
@@ -507,4 +510,5 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Saim20041/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Saim20041/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
