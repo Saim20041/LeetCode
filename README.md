@@ -244,6 +244,7 @@ The question i have solved on leetcode with solution are here.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Saim20041/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Saim20041/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Saim20041/LeetCode/tree/master/1451-rearrange-words-in-a-sentence) |
+| [1768-merge-strings-alternately](https://github.com/Saim20041/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/Saim20041/LeetCode/tree/master/1816-truncate-sentence) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Saim20041/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Saim20041/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -413,6 +414,7 @@ The question i have solved on leetcode with solution are here.
 | [0821-shortest-distance-to-a-character](https://github.com/Saim20041/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0948-bag-of-tokens](https://github.com/Saim20041/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Saim20041/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1768-merge-strings-alternately](https://github.com/Saim20041/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Saim20041/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Saim20041/LeetCode/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saim20041/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
