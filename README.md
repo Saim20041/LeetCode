@@ -148,6 +148,7 @@ The question i have solved on leetcode with solution are here.
 | [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Saim20041/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Saim20041/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -162,6 +163,7 @@ The question i have solved on leetcode with solution are here.
 | [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Saim20041/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Saim20041/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -500,6 +502,7 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Saim20041/LeetCode/tree/master/1791-find-center-of-star-graph) |
+| [3310-remove-methods-from-project](https://github.com/Saim20041/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Hash Function
 |  |
 | ------- |
