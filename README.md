@@ -68,6 +68,7 @@ The question i have solved on leetcode with solution are here.
 | [1289-minimum-falling-path-sum-ii](https://github.com/Saim20041/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Saim20041/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/Saim20041/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Saim20041/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saim20041/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saim20041/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Saim20041/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -212,6 +213,7 @@ The question i have solved on leetcode with solution are here.
 | [0658-find-k-closest-elements](https://github.com/Saim20041/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saim20041/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Saim20041/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
