@@ -146,6 +146,7 @@ The question i have solved on leetcode with solution are here.
 | [0572-subtree-of-another-tree](https://github.com/Saim20041/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Saim20041/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Saim20041/LeetCode/tree/master/0733-flood-fill) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Saim20041/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Saim20041/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -312,6 +313,7 @@ The question i have solved on leetcode with solution are here.
 | [0692-top-k-frequent-words](https://github.com/Saim20041/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/Saim20041/LeetCode/tree/master/0763-partition-labels) |
 | [0930-binary-subarrays-with-sum](https://github.com/Saim20041/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Saim20041/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1189-maximum-number-of-balloons](https://github.com/Saim20041/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Saim20041/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -364,6 +366,7 @@ The question i have solved on leetcode with solution are here.
 | [0130-surrounded-regions](https://github.com/Saim20041/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Saim20041/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Saim20041/LeetCode/tree/master/0695-max-area-of-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Saim20041/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Saim20041/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Simulation
@@ -507,6 +510,7 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Saim20041/LeetCode/tree/master/0547-number-of-provinces) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Saim20041/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1791-find-center-of-star-graph](https://github.com/Saim20041/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [3310-remove-methods-from-project](https://github.com/Saim20041/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Hash Function
@@ -522,4 +526,8 @@ The question i have solved on leetcode with solution are here.
 | ------- |
 | [0486-predict-the-winner](https://github.com/Saim20041/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Saim20041/LeetCode/tree/master/0877-stone-game) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Saim20041/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
