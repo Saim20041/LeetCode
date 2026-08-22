@@ -134,6 +134,7 @@ The question i have solved on leetcode with solution are here.
 | [1732-find-the-highest-altitude](https://github.com/Saim20041/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/Saim20041/LeetCode/tree/master/1854-maximum-population-year) |
 | [2381-shifting-letters-ii](https://github.com/Saim20041/LeetCode/tree/master/2381-shifting-letters-ii) |
+| [2485-find-the-pivot-integer](https://github.com/Saim20041/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Saim20041/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Saim20041/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Tree
@@ -427,6 +428,7 @@ The question i have solved on leetcode with solution are here.
 | [1344-angle-between-hands-of-a-clock](https://github.com/Saim20041/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2028-find-missing-observations](https://github.com/Saim20041/LeetCode/tree/master/2028-find-missing-observations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Saim20041/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2485-find-the-pivot-integer](https://github.com/Saim20041/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Saim20041/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saim20041/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saim20041/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
