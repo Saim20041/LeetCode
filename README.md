@@ -36,6 +36,7 @@ The question i have solved on leetcode with solution are here.
 | [0300-longest-increasing-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Saim20041/LeetCode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0403-frog-jump](https://github.com/Saim20041/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Saim20041/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Saim20041/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Saim20041/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -478,6 +479,7 @@ The question i have solved on leetcode with solution are here.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saim20041/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Saim20041/LeetCode/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/Saim20041/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Saim20041/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Saim20041/LeetCode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
