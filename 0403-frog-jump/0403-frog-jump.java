@@ -1,12 +1,12 @@
 class Solution {
     public boolean canCross(int[] stones) {
         Boolean dp[][] = new Boolean[stones.length][stones.length];
-        return jump(stones[0], 0, 0, stones, dp);
+        return jump(0, 0, stones, dp);
     }
 
-    public boolean jump(int curr, int prevJump, int idx, int[] stones, Boolean dp[][]) {
+    public boolean jump(int prevJump, int idx, int[] stones, Boolean dp[][]) {
 
-        if (curr == stones[stones.length - 1]) {
+        if (stones[idx] == stones[stones.length - 1]) {
             return true;
         }
         if(dp[idx][prevJump] != null){
@@ -15,7 +15,7 @@ class Solution {
 
         for (int i = idx + 1; i < stones.length; i++) {
 
-            int distance = stones[i] - curr;
+            int distance = stones[i] - stones[idx];
 
             if (distance > prevJump + 1) {
                 break;
@@ -25,7 +25,7 @@ class Solution {
                 distance == prevJump ||
                 distance == prevJump + 1) {
 
-                if (jump(stones[i], distance, i, stones, dp)) {
+                if (jump(distance, i, stones, dp)) {
                     dp[idx][prevJump] = true;
                     return dp[idx][prevJump];
                 }
