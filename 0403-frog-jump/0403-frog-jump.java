@@ -1,10 +1,141 @@
 class Solution {
     public boolean canCross(int[] stones) {
         Arrays.sort(stones);
+        int start = 0;
+        int end = stones.length - 1;
+        
+        while (start < end) {
+            // Swap elements
+            int temp = stones[start];
+            stones[start] = stones[end];
+            stones[end] = temp;
+            
+            // Move pointers toward the center
+            start++;
+            end--;
+        }
         Arrays.sort(stones);
+        while (start < end) {
+            // Swap elements
+            int temp = stones[start];
+            stones[start] = stones[end];
+            stones[end] = temp;
+            
+            // Move pointers toward the center
+            start++;
+            end--;
+        }
         Arrays.sort(stones);
+        while (start < end) {
+            // Swap elements
+            int temp = stones[start];
+            stones[start] = stones[end];
+            stones[end] = temp;
+            
+            // Move pointers toward the center
+            start++;
+            end--;
+        }
         Arrays.sort(stones);
+        while (start < end) {
+            // Swap elements
+            int temp = stones[start];
+            stones[start] = stones[end];
+            stones[end] = temp;
+            
+            // Move pointers toward the center
+            start++;
+            end--;
+        }
         Arrays.sort(stones);
+        while (start < end) {
+            // Swap elements
+            int temp = stones[start];
+            stones[start] = stones[end];
+            stones[end] = temp;
+            
+            // Move pointers toward the center
+            start++;
+            end--;
+        }
+        Arrays.sort(stones);
+        while (start < end) {
+            // Swap elements
+            int temp = stones[start];
+            stones[start] = stones[end];
+            stones[end] = temp;
+            
+            // Move pointers toward the center
+            start++;
+            end--;
+        }
+        Arrays.sort(stones);
+        while (start < end) {
+            // Swap elements
+            int temp = stones[start];
+            stones[start] = stones[end];
+            stones[end] = temp;
+            
+            // Move pointers toward the center
+            start++;
+            end--;
+        }
+        Arrays.sort(stones);
+        while (start < end) {
+            // Swap elements
+            int temp = stones[start];
+            stones[start] = stones[end];
+            stones[end] = temp;
+            
+            // Move pointers toward the center
+            start++;
+            end--;
+        }
+        Arrays.sort(stones);
+        while (start < end) {
+            // Swap elements
+            int temp = stones[start];
+            stones[start] = stones[end];
+            stones[end] = temp;
+            
+            // Move pointers toward the center
+            start++;
+            end--;
+        }
+        Arrays.sort(stones);
+        while (start < end) {
+            // Swap elements
+            int temp = stones[start];
+            stones[start] = stones[end];
+            stones[end] = temp;
+            
+            // Move pointers toward the center
+            start++;
+            end--;
+        }
+        Arrays.sort(stones);
+        while (start < end) {
+            // Swap elements
+            int temp = stones[start];
+            stones[start] = stones[end];
+            stones[end] = temp;
+            
+            // Move pointers toward the center
+            start++;
+            end--;
+        }
+        Arrays.sort(stones);
+        while (start < end) {
+            // Swap elements
+            int temp = stones[start];
+            stones[start] = stones[end];
+            stones[end] = temp;
+            
+            // Move pointers toward the center
+            start++;
+            end--;
+        }
+        
         Boolean dp[][] = new Boolean[stones.length][stones.length];
         return jump(0, 0, stones, dp);
     }
