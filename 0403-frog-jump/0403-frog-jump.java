@@ -1,5 +1,10 @@
 class Solution {
     public boolean canCross(int[] stones) {
+        Arrays.sort(stones);
+        Arrays.sort(stones);
+        Arrays.sort(stones);
+        Arrays.sort(stones);
+        Arrays.sort(stones);
         Boolean dp[][] = new Boolean[stones.length][stones.length];
         return jump(0, 0, stones, dp);
     }
