@@ -83,6 +83,7 @@ The question i have solved on leetcode with solution are here.
 | [1732-find-the-highest-altitude](https://github.com/Saim20041/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saim20041/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1816-truncate-sentence](https://github.com/Saim20041/LeetCode/tree/master/1816-truncate-sentence) |
+| [1824-minimum-sideway-jumps](https://github.com/Saim20041/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saim20041/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Saim20041/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1854-maximum-population-year](https://github.com/Saim20041/LeetCode/tree/master/1854-maximum-population-year) |
@@ -116,6 +117,7 @@ The question i have solved on leetcode with solution are here.
 | [0763-partition-labels](https://github.com/Saim20041/LeetCode/tree/master/0763-partition-labels) |
 | [0948-bag-of-tokens](https://github.com/Saim20041/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Saim20041/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1824-minimum-sideway-jumps](https://github.com/Saim20041/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saim20041/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Saim20041/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Saim20041/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -493,6 +495,7 @@ The question i have solved on leetcode with solution are here.
 | [0931-minimum-falling-path-sum](https://github.com/Saim20041/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Saim20041/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Saim20041/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1824-minimum-sideway-jumps](https://github.com/Saim20041/LeetCode/tree/master/1824-minimum-sideway-jumps) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Saim20041/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Quickselect
 |  |
