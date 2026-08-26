@@ -269,6 +269,7 @@ The question i have solved on leetcode with solution are here.
 | [1023-camelcase-matching](https://github.com/Saim20041/LeetCode/tree/master/1023-camelcase-matching) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Saim20041/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Saim20041/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/Saim20041/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Saim20041/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Saim20041/LeetCode/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/Saim20041/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -493,6 +494,7 @@ The question i have solved on leetcode with solution are here.
 | [0907-sum-of-subarray-minimums](https://github.com/Saim20041/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Saim20041/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/Saim20041/LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/Saim20041/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Saim20041/LeetCode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Saim20041/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1824-minimum-sideway-jumps](https://github.com/Saim20041/LeetCode/tree/master/1824-minimum-sideway-jumps) |
@@ -582,4 +584,8 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Saim20041/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Saim20041/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
