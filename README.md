@@ -526,6 +526,7 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Saim20041/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/Saim20041/LeetCode/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Saim20041/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Counting Sort
 |  |
@@ -565,6 +566,7 @@ The question i have solved on leetcode with solution are here.
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Saim20041/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Saim20041/LeetCode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
