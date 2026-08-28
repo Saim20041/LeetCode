@@ -333,6 +333,7 @@ The question i have solved on leetcode with solution are here.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saim20041/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Saim20041/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Saim20041/LeetCode/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/Saim20041/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Saim20041/LeetCode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Saim20041/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Saim20041/LeetCode/tree/master/0500-keyboard-row) |
@@ -423,6 +424,7 @@ The question i have solved on leetcode with solution are here.
 | [0013-roman-to-integer](https://github.com/Saim20041/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Saim20041/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Saim20041/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Saim20041/LeetCode/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/Saim20041/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saim20041/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Saim20041/LeetCode/tree/master/0877-stone-game) |
@@ -448,6 +450,7 @@ The question i have solved on leetcode with solution are here.
 | [0075-sort-colors](https://github.com/Saim20041/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Saim20041/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Saim20041/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Saim20041/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Saim20041/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Saim20041/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Saim20041/LeetCode/tree/master/0344-reverse-string) |
@@ -588,4 +591,8 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Saim20041/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Saim20041/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
