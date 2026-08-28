@@ -249,6 +249,7 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saim20041/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Saim20041/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Saim20041/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Saim20041/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Saim20041/LeetCode/tree/master/0049-group-anagrams) |
@@ -444,6 +445,7 @@ The question i have solved on leetcode with solution are here.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Saim20041/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Saim20041/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Saim20041/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Saim20041/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -479,6 +481,7 @@ The question i have solved on leetcode with solution are here.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Saim20041/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Saim20041/LeetCode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Saim20041/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Saim20041/LeetCode/tree/master/0072-edit-distance) |
@@ -597,4 +600,8 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Saim20041/LeetCode/tree/master/0202-happy-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Saim20041/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
