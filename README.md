@@ -38,6 +38,7 @@ The question i have solved on leetcode with solution are here.
 | [0334-increasing-triplet-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0403-frog-jump](https://github.com/Saim20041/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Saim20041/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Saim20041/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Saim20041/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Saim20041/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Saim20041/LeetCode/tree/master/0500-keyboard-row) |
@@ -260,6 +261,7 @@ The question i have solved on leetcode with solution are here.
 | [0345-reverse-vowels-of-a-string](https://github.com/Saim20041/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/Saim20041/LeetCode/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Saim20041/LeetCode/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/Saim20041/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/Saim20041/LeetCode/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Saim20041/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -492,6 +494,7 @@ The question i have solved on leetcode with solution are here.
 | [0322-coin-change](https://github.com/Saim20041/LeetCode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Saim20041/LeetCode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Saim20041/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Saim20041/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Saim20041/LeetCode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Saim20041/LeetCode/tree/master/0518-coin-change-ii) |
@@ -604,4 +607,12 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saim20041/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/Saim20041/LeetCode/tree/master/0474-ones-and-zeroes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/Saim20041/LeetCode/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
