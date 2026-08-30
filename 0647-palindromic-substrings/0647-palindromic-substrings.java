@@ -5,7 +5,7 @@ class Solution {
         for(int arr[] : dp){
             Arrays.fill(arr, -1);
         }
-        for(int i = 0; i < s.length(); i++){
+        for(int i = s.length()-1; i >= 0; i--){
             count+=helper(s, i, i, dp);
         }
         return count;
