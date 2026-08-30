@@ -1,44 +1,53 @@
 class Solution {
     public int countSubstrings(String s) {
+
+        int n = s.length();
+        Boolean[][] dp = new Boolean[n][n];
+
         int count = 0;
-        int dp[][] = new int[s.length()][s.length()];
-        for(int arr[] : dp){
-            Arrays.fill(arr, -1);
+
+        for (int i = 0; i < n; i++) {
+            count += helper(s, i, i, dp);
         }
-        for(int i = s.length()-1; i >= 0; i--){
-            count+=helper(s, i, i, dp);
-        }
+
         return count;
     }
-    public int helper(String s, int left, int right, int dp[][]){
-        if(right == s.length()){
+
+    public int helper(String s, int left, int right, Boolean[][] dp) {
+
+        if (right == s.length()) {
             return 0;
         }
-        if(dp[left][right]!=-1){
-            return dp[left][right];
-        }
-        if(isPalindrome(s, left, right)){
-            dp[left][right] = 1 + helper(s, left, right+1, dp);
-            return dp[left][right];
-        }
-        else{
-            dp[left][right] = helper(s, left, right+1, dp);
-            return dp[left][right];
+
+        int count = 0;
+
+        if (isPalindrome(s, left, right, dp)) {
+            count = 1;
         }
 
-
+        return count + helper(s, left, right + 1, dp);
     }
-    public boolean isPalindrome(String s, int left, int right){
-        if(left < 0 || right >= s.length()){
-            return false;
+
+    public boolean isPalindrome(
+        String s,
+        int left,
+        int right,
+        Boolean[][] dp
+    ) {
+
+        if (left >= right) {
+            return true;
         }
-        while(left <= right){
-            if(s.charAt(left) != s.charAt(right)){
-                return false;
-            }
-            left++;
-            right--;
+
+        if (dp[left][right] != null) {
+            return dp[left][right];
         }
-        return true;
+
+        if (s.charAt(left) != s.charAt(right)) {
+            return dp[left][right] = false;
+        }
+
+        return dp[left][right] =
+            isPalindrome(s, left + 1, right - 1, dp);
     }
 }
