@@ -43,6 +43,7 @@ The question i have solved on leetcode with solution are here.
 | [0486-predict-the-winner](https://github.com/Saim20041/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Saim20041/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Saim20041/LeetCode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/Saim20041/LeetCode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Saim20041/LeetCode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saim20041/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Saim20041/LeetCode/tree/master/0542-01-matrix) |
@@ -239,6 +240,7 @@ The question i have solved on leetcode with solution are here.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saim20041/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Saim20041/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0506-relative-ranks](https://github.com/Saim20041/LeetCode/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/Saim20041/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Saim20041/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Saim20041/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -366,6 +368,7 @@ The question i have solved on leetcode with solution are here.
 | [0075-sort-colors](https://github.com/Saim20041/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saim20041/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Saim20041/LeetCode/tree/master/0229-majority-element-ii) |
+| [0506-relative-ranks](https://github.com/Saim20041/LeetCode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Saim20041/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Saim20041/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Saim20041/LeetCode/tree/master/0692-top-k-frequent-words) |
