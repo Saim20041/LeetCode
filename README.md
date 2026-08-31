@@ -53,6 +53,7 @@ The question i have solved on leetcode with solution are here.
 | [0682-baseball-game](https://github.com/Saim20041/LeetCode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Saim20041/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Saim20041/LeetCode/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saim20041/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Saim20041/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Saim20041/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Saim20041/LeetCode/tree/master/0739-daily-temperatures) |
@@ -117,6 +118,7 @@ The question i have solved on leetcode with solution are here.
 | [0316-remove-duplicate-letters](https://github.com/Saim20041/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Saim20041/LeetCode/tree/master/0402-remove-k-digits) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saim20041/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/Saim20041/LeetCode/tree/master/0763-partition-labels) |
 | [0948-bag-of-tokens](https://github.com/Saim20041/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Saim20041/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -507,6 +509,7 @@ The question i have solved on leetcode with solution are here.
 | [0518-coin-change-ii](https://github.com/Saim20041/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Saim20041/LeetCode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Saim20041/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saim20041/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/Saim20041/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saim20041/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Saim20041/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
