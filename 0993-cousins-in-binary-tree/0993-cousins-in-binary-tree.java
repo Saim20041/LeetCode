@@ -15,25 +15,49 @@
  */
 class Solution {
     public boolean isCousins(TreeNode root, int x, int y) {
-        int res[] = new int[4];
-        helper(x, y, -1, root, 0, res);
-        return (res[0] == res[1]) && res[2] != res[3]; 
-    }
-    public void helper(int x, int y, int parent, TreeNode root, int level, int res[]){
-        if(root == null){
-            return;
-        }
-        if(root.val == x){
-            res[0] = level;
-            res[2] = parent;
-        }
-        if(root.val == y){
-            res[1] = level;
-            res[3] = parent;
-        }
-        helper(x, y, root.val, root.left, level+1, res);
-        helper(x, y, root.val, root.right, level+1, res);
-        return;
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+        while(!queue.isEmpty()){
+            int size = queue.size();
+            boolean foundX = false;
+            boolean foundY = false;
+            for(int i = 0; i < size; i++){
+                TreeNode node = queue.poll();
+                if(node.left != null && node.right != null){
+                    if((node.left.val == x && node.right.val == y) ||
+                        (node.left.val == y && node.right.val == x)){
+                    return false;
+                    }
+                }
+                
 
+                if(node.right != null){
+                    if(node.right.val == x){
+                        foundX = true;
+                    }
+                    if(node.right.val == y){
+                        foundY = true;
+                    }
+                    queue.add(node.right);
+                }
+                if(node.left != null){
+                    if(node.left.val == x){
+                        foundX = true;
+                    }
+                    if(node.left.val == y){
+                        foundY = true;
+                    }
+                    queue.add(node.left);
+
+                }
+            }
+            if(foundX == true && foundY == true){
+                return true;
+            }
+            if(foundX == true || foundY == true){
+                return false;
+            }
+        }
+        return false;
     }
 }
