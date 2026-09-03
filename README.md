@@ -153,6 +153,7 @@ The question i have solved on leetcode with solution are here.
 | [0226-invert-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Saim20041/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Saim20041/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -166,6 +167,7 @@ The question i have solved on leetcode with solution are here.
 | [0802-find-eventual-safe-states](https://github.com/Saim20041/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Saim20041/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Saim20041/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0993-cousins-in-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Saim20041/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -184,6 +186,7 @@ The question i have solved on leetcode with solution are here.
 | [0733-flood-fill](https://github.com/Saim20041/LeetCode/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/Saim20041/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Saim20041/LeetCode/tree/master/0841-keys-and-rooms) |
+| [0993-cousins-in-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Saim20041/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -197,6 +200,7 @@ The question i have solved on leetcode with solution are here.
 | [0222-count-complete-tree-nodes](https://github.com/Saim20041/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Saim20041/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search
 |  |
