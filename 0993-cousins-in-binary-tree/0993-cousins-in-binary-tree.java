@@ -19,9 +19,9 @@ class Solution {
         helper(x, y, -1, root, 0, res);
         return (res[0] == res[1]) && res[2] != res[3]; 
     }
-    public int[] helper(int x, int y, int parent, TreeNode root, int level, int res[]){
+    public void helper(int x, int y, int parent, TreeNode root, int level, int res[]){
         if(root == null){
-            return res;
+            return;
         }
         if(root.val == x){
             res[0] = level;
@@ -33,7 +33,7 @@ class Solution {
         }
         helper(x, y, root.val, root.left, level+1, res);
         helper(x, y, root.val, root.right, level+1, res);
-        return res;
+        return;
 
     }
 }
