@@ -17,6 +17,7 @@ The question i have solved on leetcode with solution are here.
 | [0059-spiral-matrix-ii](https://github.com/Saim20041/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Saim20041/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Saim20041/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Saim20041/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Saim20041/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Saim20041/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saim20041/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -164,6 +165,7 @@ The question i have solved on leetcode with solution are here.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Saim20041/LeetCode/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Saim20041/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Saim20041/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Saim20041/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -279,6 +281,7 @@ The question i have solved on leetcode with solution are here.
 | [0020-valid-parentheses](https://github.com/Saim20041/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Saim20041/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Saim20041/LeetCode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Saim20041/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Saim20041/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0316-remove-duplicate-letters](https://github.com/Saim20041/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Saim20041/LeetCode/tree/master/0344-reverse-string) |
@@ -322,6 +325,7 @@ The question i have solved on leetcode with solution are here.
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Saim20041/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Saim20041/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Saim20041/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Saim20041/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Saim20041/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Saim20041/LeetCode/tree/master/0695-max-area-of-island) |
@@ -339,6 +343,7 @@ The question i have solved on leetcode with solution are here.
 | ------- |
 | [0039-combination-sum](https://github.com/Saim20041/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Saim20041/LeetCode/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/Saim20041/LeetCode/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
