@@ -60,6 +60,7 @@ The question i have solved on leetcode with solution are here.
 | [0739-daily-temperatures](https://github.com/Saim20041/LeetCode/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/Saim20041/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0821-shortest-distance-to-a-character](https://github.com/Saim20041/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/Saim20041/LeetCode/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/Saim20041/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saim20041/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Saim20041/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -243,6 +244,7 @@ The question i have solved on leetcode with solution are here.
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Saim20041/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Saim20041/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/Saim20041/LeetCode/tree/master/0832-flipping-an-image) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Saim20041/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 ## Queue
 |  |
@@ -334,6 +336,7 @@ The question i have solved on leetcode with solution are here.
 | [0695-max-area-of-island](https://github.com/Saim20041/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Saim20041/LeetCode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Saim20041/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/Saim20041/LeetCode/tree/master/0832-flipping-an-image) |
 | [0931-minimum-falling-path-sum](https://github.com/Saim20041/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Saim20041/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Saim20041/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -446,6 +449,7 @@ The question i have solved on leetcode with solution are here.
 | [0059-spiral-matrix-ii](https://github.com/Saim20041/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/Saim20041/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Saim20041/LeetCode/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/Saim20041/LeetCode/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Saim20041/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Saim20041/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Saim20041/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -500,6 +504,7 @@ The question i have solved on leetcode with solution are here.
 | [0658-find-k-closest-elements](https://github.com/Saim20041/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/Saim20041/LeetCode/tree/master/0763-partition-labels) |
 | [0821-shortest-distance-to-a-character](https://github.com/Saim20041/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/Saim20041/LeetCode/tree/master/0832-flipping-an-image) |
 | [0948-bag-of-tokens](https://github.com/Saim20041/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1023-camelcase-matching](https://github.com/Saim20041/LeetCode/tree/master/1023-camelcase-matching) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Saim20041/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
