@@ -665,4 +665,8 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Saim20041/LeetCode/tree/master/0474-ones-and-zeroes) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Saim20041/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
