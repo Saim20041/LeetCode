@@ -42,6 +42,7 @@ The question i have solved on leetcode with solution are here.
 | [0416-partition-equal-subset-sum](https://github.com/Saim20041/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Saim20041/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Saim20041/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Saim20041/LeetCode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Saim20041/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Saim20041/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Saim20041/LeetCode/tree/master/0506-relative-ranks) |
@@ -352,6 +353,7 @@ The question i have solved on leetcode with solution are here.
 | [0039-combination-sum](https://github.com/Saim20041/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Saim20041/LeetCode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Saim20041/LeetCode/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/Saim20041/LeetCode/tree/master/0494-target-sum) |
 ## Stack
 |  |
 | ------- |
@@ -544,6 +546,7 @@ The question i have solved on leetcode with solution are here.
 | [0416-partition-equal-subset-sum](https://github.com/Saim20041/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Saim20041/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Saim20041/LeetCode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Saim20041/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Saim20041/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Saim20041/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Saim20041/LeetCode/tree/master/0542-01-matrix) |
@@ -663,10 +666,12 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Saim20041/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Saim20041/LeetCode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Saim20041/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Saim20041/LeetCode/tree/master/0494-target-sum) |
 ## Database
 |  |
 | ------- |
