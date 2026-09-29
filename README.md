@@ -97,6 +97,7 @@ The question i have solved on leetcode with solution are here.
 | [1929-concatenation-of-array](https://github.com/Saim20041/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Saim20041/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saim20041/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Saim20041/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2028-find-missing-observations](https://github.com/Saim20041/LeetCode/tree/master/2028-find-missing-observations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Saim20041/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Saim20041/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -391,6 +392,7 @@ The question i have solved on leetcode with solution are here.
 | [1331-rank-transform-of-an-array](https://github.com/Saim20041/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1630-arithmetic-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saim20041/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Saim20041/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2540-minimum-common-value](https://github.com/Saim20041/LeetCode/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saim20041/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -437,6 +439,7 @@ The question i have solved on leetcode with solution are here.
 | [0692-top-k-frequent-words](https://github.com/Saim20041/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Saim20041/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1854-maximum-population-year](https://github.com/Saim20041/LeetCode/tree/master/1854-maximum-population-year) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Saim20041/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saim20041/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Union-Find
@@ -478,6 +481,7 @@ The question i have solved on leetcode with solution are here.
 | [1071-greatest-common-divisor-of-strings](https://github.com/Saim20041/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Saim20041/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Saim20041/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2028-find-missing-observations](https://github.com/Saim20041/LeetCode/tree/master/2028-find-missing-observations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Saim20041/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2485-find-the-pivot-integer](https://github.com/Saim20041/LeetCode/tree/master/2485-find-the-pivot-integer) |
@@ -605,6 +609,7 @@ The question i have solved on leetcode with solution are here.
 ## Number Theory
 |  |
 | ------- |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Saim20041/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saim20041/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saim20041/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
