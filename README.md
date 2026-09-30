@@ -111,6 +111,7 @@ The question i have solved on leetcode with solution are here.
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Saim20041/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saim20041/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Saim20041/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saim20041/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Saim20041/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3838-weighted-word-mapping](https://github.com/Saim20041/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Saim20041/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -487,6 +488,7 @@ The question i have solved on leetcode with solution are here.
 | [2485-find-the-pivot-integer](https://github.com/Saim20041/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Saim20041/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saim20041/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saim20041/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Saim20041/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Saim20041/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Saim20041/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
