@@ -288,6 +288,7 @@ The question i have solved on leetcode with solution are here.
 | [0005-longest-palindromic-substring](https://github.com/Saim20041/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Saim20041/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Saim20041/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Saim20041/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Saim20041/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Saim20041/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Saim20041/LeetCode/tree/master/0079-word-search) |
@@ -352,6 +353,7 @@ The question i have solved on leetcode with solution are here.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Saim20041/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Saim20041/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Saim20041/LeetCode/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Saim20041/LeetCode/tree/master/0079-word-search) |
@@ -539,6 +541,7 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Saim20041/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Saim20041/LeetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Saim20041/LeetCode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Saim20041/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Saim20041/LeetCode/tree/master/0072-edit-distance) |
@@ -683,4 +686,8 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Saim20041/LeetCode/tree/master/0175-combine-two-tables) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Saim20041/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
