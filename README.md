@@ -128,6 +128,7 @@ The question i have solved on leetcode with solution are here.
 | [0402-remove-k-digits](https://github.com/Saim20041/LeetCode/tree/master/0402-remove-k-digits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saim20041/LeetCode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/Saim20041/LeetCode/tree/master/0763-partition-labels) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saim20041/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/Saim20041/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Saim20041/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1824-minimum-sideway-jumps](https://github.com/Saim20041/LeetCode/tree/master/1824-minimum-sideway-jumps) |
@@ -306,6 +307,7 @@ The question i have solved on leetcode with solution are here.
 | [0763-partition-labels](https://github.com/Saim20041/LeetCode/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/Saim20041/LeetCode/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Saim20041/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saim20041/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-reorder-data-in-log-files](https://github.com/Saim20041/LeetCode/tree/master/0937-reorder-data-in-log-files) |
 | [1023-camelcase-matching](https://github.com/Saim20041/LeetCode/tree/master/1023-camelcase-matching) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Saim20041/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -369,6 +371,7 @@ The question i have solved on leetcode with solution are here.
 | [0735-asteroid-collision](https://github.com/Saim20041/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Saim20041/LeetCode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saim20041/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saim20041/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Saim20041/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saim20041/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Saim20041/LeetCode/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -690,4 +693,5 @@ The question i have solved on leetcode with solution are here.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saim20041/LeetCode/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saim20041/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
