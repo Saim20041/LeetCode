@@ -114,6 +114,7 @@ The question i have solved on leetcode with solution are here.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Saim20041/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Saim20041/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saim20041/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3693-climbing-stairs-ii](https://github.com/Saim20041/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Saim20041/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Saim20041/LeetCode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3838-weighted-word-mapping](https://github.com/Saim20041/LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -586,6 +587,7 @@ The question i have solved on leetcode with solution are here.
 | [1289-minimum-falling-path-sum-ii](https://github.com/Saim20041/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Saim20041/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1824-minimum-sideway-jumps](https://github.com/Saim20041/LeetCode/tree/master/1824-minimum-sideway-jumps) |
+| [3693-climbing-stairs-ii](https://github.com/Saim20041/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Saim20041/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Quickselect
 |  |
