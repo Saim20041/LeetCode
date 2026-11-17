@@ -4,20 +4,12 @@ class Solution {
         for(int i = 0; i < chars.length(); i++){
             map.put(chars.charAt(i), vals[i]);
         }
-        int arr[] = new int[s.length()];
-        for(int i = 0; i < arr.length; i++){
-            char ch = s.charAt(i);
-            if(map.containsKey(ch)){
-                arr[i] = map.get(ch);
-            }
-            else{
-                arr[i] = 1 + (int) (ch - 'a');
-            }
-        }
         int max = 0;
         int curr = 0;
-        for(int i = 0; i < arr.length; i++){
-            curr+=arr[i];
+        for(int i = 0; i < s.length(); i++){
+            char ch = s.charAt(i);
+            int cost = map.containsKey(ch) ? map.get(ch) : 1 + (int) (ch - 'a');
+            curr+=cost;
             if(curr<0){
                 curr=0;
             }
