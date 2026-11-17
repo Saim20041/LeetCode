@@ -109,6 +109,7 @@ The question i have solved on leetcode with solution are here.
 | [2540-minimum-common-value](https://github.com/Saim20041/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Saim20041/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Saim20041/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/Saim20041/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Saim20041/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saim20041/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Saim20041/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -331,6 +332,7 @@ The question i have solved on leetcode with solution are here.
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Saim20041/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Saim20041/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2381-shifting-letters-ii](https://github.com/Saim20041/LeetCode/tree/master/2381-shifting-letters-ii) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/Saim20041/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saim20041/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Saim20041/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Saim20041/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -410,6 +412,7 @@ The question i have solved on leetcode with solution are here.
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Saim20041/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2540-minimum-common-value](https://github.com/Saim20041/LeetCode/tree/master/2540-minimum-common-value) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/Saim20041/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saim20041/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Saim20041/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saim20041/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -587,6 +590,7 @@ The question i have solved on leetcode with solution are here.
 | [1289-minimum-falling-path-sum-ii](https://github.com/Saim20041/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Saim20041/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1824-minimum-sideway-jumps](https://github.com/Saim20041/LeetCode/tree/master/1824-minimum-sideway-jumps) |
+| [2606-find-the-substring-with-maximum-cost](https://github.com/Saim20041/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3693-climbing-stairs-ii](https://github.com/Saim20041/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Saim20041/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Quickselect
