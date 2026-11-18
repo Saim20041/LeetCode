@@ -334,6 +334,7 @@ The question i have solved on leetcode with solution are here.
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Saim20041/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2381-shifting-letters-ii](https://github.com/Saim20041/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Saim20041/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Saim20041/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saim20041/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Saim20041/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Saim20041/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
