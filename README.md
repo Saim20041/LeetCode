@@ -276,6 +276,7 @@ The question i have solved on leetcode with solution are here.
 | [0930-binary-subarrays-with-sum](https://github.com/Saim20041/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Saim20041/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Saim20041/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saim20041/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Saim20041/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
@@ -327,6 +328,7 @@ The question i have solved on leetcode with solution are here.
 | [1451-rearrange-words-in-a-sentence](https://github.com/Saim20041/LeetCode/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1768-merge-strings-alternately](https://github.com/Saim20041/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/Saim20041/LeetCode/tree/master/1816-truncate-sentence) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Saim20041/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Saim20041/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Saim20041/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Saim20041/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -412,6 +414,7 @@ The question i have solved on leetcode with solution are here.
 | [1331-rank-transform-of-an-array](https://github.com/Saim20041/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1630-arithmetic-subarrays](https://github.com/Saim20041/LeetCode/tree/master/1630-arithmetic-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saim20041/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Saim20041/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Saim20041/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2540-minimum-common-value](https://github.com/Saim20041/LeetCode/tree/master/2540-minimum-common-value) |
@@ -461,6 +464,7 @@ The question i have solved on leetcode with solution are here.
 | [0692-top-k-frequent-words](https://github.com/Saim20041/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Saim20041/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1854-maximum-population-year](https://github.com/Saim20041/LeetCode/tree/master/1854-maximum-population-year) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Saim20041/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Saim20041/LeetCode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saim20041/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
