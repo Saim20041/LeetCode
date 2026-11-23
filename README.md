@@ -112,6 +112,7 @@ The question i have solved on leetcode with solution are here.
 | [2574-left-and-right-sum-differences](https://github.com/Saim20041/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Saim20041/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Saim20041/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Saim20041/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Saim20041/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Saim20041/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Saim20041/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -453,6 +454,7 @@ The question i have solved on leetcode with solution are here.
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saim20041/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Saim20041/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Saim20041/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Saim20041/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Saim20041/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Saim20041/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
