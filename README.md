@@ -106,6 +106,7 @@ The question i have solved on leetcode with solution are here.
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saim20041/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Saim20041/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saim20041/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saim20041/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2381-shifting-letters-ii](https://github.com/Saim20041/LeetCode/tree/master/2381-shifting-letters-ii) |
 | [2540-minimum-common-value](https://github.com/Saim20041/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Saim20041/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -371,6 +372,7 @@ The question i have solved on leetcode with solution are here.
 | [1260-shift-2d-grid](https://github.com/Saim20041/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Saim20041/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Saim20041/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saim20041/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Saim20041/LeetCode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Saim20041/LeetCode/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Backtracking
@@ -604,6 +606,7 @@ The question i have solved on leetcode with solution are here.
 | [1289-minimum-falling-path-sum-ii](https://github.com/Saim20041/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Saim20041/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1824-minimum-sideway-jumps](https://github.com/Saim20041/LeetCode/tree/master/1824-minimum-sideway-jumps) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saim20041/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/Saim20041/LeetCode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3693-climbing-stairs-ii](https://github.com/Saim20041/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Saim20041/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -731,4 +734,5 @@ The question i have solved on leetcode with solution are here.
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saim20041/LeetCode/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saim20041/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saim20041/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
